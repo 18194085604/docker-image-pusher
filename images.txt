@@ -1,1 +1,2 @@
 bitnami/minio:2024.8.29
+spryker/redis-commander:0.8.0
